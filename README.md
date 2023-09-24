@@ -42,7 +42,7 @@ You can view and follow along with the tutorial [here](https://youtu.be/qaMZptkL
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+Contributions are welcome! This is merely a simple calculator, but it could be a whole lot more. If you'd like to contribute to this project, please follow these steps:
 
 1. Fork the project.
 2. Create your feature branch: `git checkout -b feature/your-feature`
@@ -57,5 +57,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 Thanks to the Godot community for the fantastic game engine.
-
-Feel free to customize this README file to include specific details about your project and any additional instructions or information you want to provide to users and contributors. Good luck with your calculator project!
