@@ -3,7 +3,9 @@
 ![Calculator Demo](https://github.com/jsonify/Calculator/assets/1201529/eb641f14-a75b-45ae-8a43-1e11ea5ea765)
 
 
-This is a simple calculator application built using the Godot game engine and GDScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division, along with features like decimal input, number negation, and clearing.
+This is a simple calculator application built using the Godot game engine and GDScript. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division, along with features like decimal input, number negation, and clearing. This project was built as a tutorial to help other Godot user get an introduction into using the UI container nodes that Godot has to offer.
+
+You can view and follow along with the tutorial [here](https://youtu.be/qaMZptkLCvc).
 
 ## Features
 
